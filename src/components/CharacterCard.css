@@ -1,0 +1,10 @@
+.character-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+.character-card img {
+    max-width: 100%;
+    height: auto;
+}
